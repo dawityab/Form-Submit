@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    background-image: linear-gradient(rgb(143, 245, 143),white);
+    background-repeat: no-repeat;
+    height: 900px;
+}
+#main{
+    margin: 20px;
+    padding: 20px;
+}
+#submitionForm{
+    background-color: blanchedalmond;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(114, 71, 14);
+    
+}
